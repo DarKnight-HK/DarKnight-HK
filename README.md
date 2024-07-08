@@ -1,5 +1,6 @@
-# Hello Hello
-## Welcome to my profile 👋
+# 👋 Hello Hello
+## Welcome to my profile 
+<img src="https://i.giphy.com/WtOkaikiwaR87ZvAFH.webp" alt="Cool gif" width=50 />
 
 - 🔭 I’m currently working on React Native/Next.js projects
 - 🌱 I’m currently learning JavaScript Technologies
