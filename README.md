@@ -1,8 +1,8 @@
 # 👋 Hello Hello
 ## Welcome to my profile 
 
-- 🔭 I’m currently working on React Native/Next.js projects
-- 🌱 I’m currently learning JavaScript Technologies
+- 🔭 I’m currently working on Webdev projects
+- 🌱 I’m currently learning Golang
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I use Arch btw!
 <p align="center">
