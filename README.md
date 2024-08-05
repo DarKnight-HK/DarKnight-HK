@@ -2,7 +2,7 @@
 ## Welcome to my profile 
 
 - 🔭 I’m currently working on Webdev projects
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Rust
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I use Arch btw!
 <p align="center">
